@@ -1,7 +1,7 @@
 Claymore's Dual Ethereum + Decred/Siacoin/Lbry/Pascal AMD+NVIDIA GPU Miner.
 =========================
 
-CURRENT VERSION: 10.4
+CURRENT VERSION: 10.6
 
 FEATURES:
 
